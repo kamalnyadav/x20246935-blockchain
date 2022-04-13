@@ -6,11 +6,3 @@ services:
       dockerfile: Dockerfile
     ports:
       - 8090:8080
-    networks:
-      - labnetwork
-networks:
-  labnetwork:
-    driver: bridge
-    ipam:
-      config:
-        - subnet:

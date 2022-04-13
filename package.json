@@ -1,21 +1,21 @@
 {
-    "name": "nci",
+    "name": "x20246935_blockchain",
     "version": "1.0.0",
-    "description": "college project",
+    "description": "Block Project",
     "main": "contract.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/*************"
+        "url": "https://github.com/kamalnyadav/x20246935-blockchain.git"
     },
     "author": "",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/************"
+        "url": "https://github.com/kamalnyadav/x20246935-blockchain.git"
     },
-    "homepage": "https://github.com/**************",
+    "homepage": "https://github.com/kamalnyadav/x20246935-blockchain.git",
     "dependencies": {
         "big-number": "^2.0.0",
         "bip39": "^3.0.4",
